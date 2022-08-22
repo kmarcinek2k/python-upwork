@@ -4,7 +4,7 @@ from upwork.routers import auth
 #from upwork.routers.jobs import search
 #from upwork.routers.activities import team
 #from upwork.routers.reports import time
-#from urllib.parse import quote
+#from urllib.parse import quote s
 
 def get_desktop_client():
     """Emulation of a desktop application.
